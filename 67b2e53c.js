@@ -1,0 +1,1 @@
+import{_ as e}from"./c27b6911.js";import{f as _,o as t,c as o}from"./assets/index-c1ea06fe.js";const c={class:"ele-wrapper flex-center"},s={__name:"ele2024",setup(a){return _(()=>{}),(n,r)=>(t(),o("div",c,"選舉結束，頁面下架"))}},f=e(s,[["__scopeId","data-v-ce8682f6"]]);export{f as default};
